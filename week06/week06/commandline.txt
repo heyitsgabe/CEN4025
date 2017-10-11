@@ -1,0 +1,5 @@
+cd Documents/School/Current_Semester/cen4025/bin/
+
+java -cp . week06.io.TcpServer
+
+java -cp . week06.io.TcpClient
